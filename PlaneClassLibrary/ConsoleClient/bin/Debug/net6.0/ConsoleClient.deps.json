@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleClient/1.0.0": {
+        "dependencies": {
+          "PlaneClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleClient.dll": {}
+        }
+      },
+      "PlaneClassLibrary/1.0.0": {
+        "runtime": {
+          "PlaneClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlaneClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
