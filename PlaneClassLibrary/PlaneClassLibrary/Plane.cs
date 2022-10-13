@@ -10,7 +10,6 @@ namespace PlaneClassLibrary
     {
         internal float CurrentSpeed, Acceleration, Wingspan, MaxHigh, MaxSpeed;
         internal string Type, Race;
-
         public Plane() { }
         public Plane(float CurrentSpeed, float Acceleration, string Type, string Race, float Wingspan, float MaxHigh, float MaxSpeed)
         {
@@ -22,7 +21,5 @@ namespace PlaneClassLibrary
             this.MaxHigh = MaxHigh;
             this.MaxSpeed = MaxSpeed;
         }
-
-        
     }
 }

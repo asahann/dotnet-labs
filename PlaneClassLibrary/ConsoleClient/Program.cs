@@ -26,4 +26,3 @@ PlaneActions.WritePlaneMaxSpeed(plane1);
 //8)Get max high
 Console.Write("Max high of plane1:");
 PlaneActions.WritePlaneMaxHigh(plane1);
-

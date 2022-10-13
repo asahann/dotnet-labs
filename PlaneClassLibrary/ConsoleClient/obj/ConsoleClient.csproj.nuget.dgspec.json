@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj": {}
+    "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj": {
+    "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj",
+        "projectUniqueName": "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj",
         "projectName": "ConsoleClient",
-        "projectPath": "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj",
+        "projectPath": "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj",
         "packagesPath": "C:\\Users\\ubuntu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\ConsoleClient\\obj\\",
+        "outputPath": "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\ConsoleClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj"
+              "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj"
               }
             }
           }
@@ -66,11 +66,11 @@
         }
       }
     },
-    "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj": {
+    "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj",
         "projectName": "PlaneClassLibrary",
-        "projectPath": "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj",
+        "projectPath": "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\PlaneClassLibrary\\PlaneClassLibrary.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

@@ -4,3 +4,9 @@ C:\Users\ubuntu\git\repos\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneCla
 C:\Users\ubuntu\git\repos\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\ubuntu\git\repos\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneClassLibrary.dll
 C:\Users\ubuntu\git\repos\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneClassLibrary.pdb
+C:\Users\ubuntu\Desktop\ТНТУ\3.КРПП\Лабораторні\dotnet-labs\PlaneClassLibrary\PlaneClassLibrary\bin\Debug\PlaneClassLibrary.dll
+C:\Users\ubuntu\Desktop\ТНТУ\3.КРПП\Лабораторні\dotnet-labs\PlaneClassLibrary\PlaneClassLibrary\bin\Debug\PlaneClassLibrary.pdb
+C:\Users\ubuntu\Desktop\ТНТУ\3.КРПП\Лабораторні\dotnet-labs\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ubuntu\Desktop\ТНТУ\3.КРПП\Лабораторні\dotnet-labs\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ubuntu\Desktop\ТНТУ\3.КРПП\Лабораторні\dotnet-labs\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneClassLibrary.dll
+C:\Users\ubuntu\Desktop\ТНТУ\3.КРПП\Лабораторні\dotnet-labs\PlaneClassLibrary\PlaneClassLibrary\obj\Debug\PlaneClassLibrary.pdb

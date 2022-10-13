@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fZmNwf+ctrEZCKKpyaE6WOaCDwfykomf/JQDUR3uFsnX/+z/6Ohbvlav9q5wqIh6wVOrq+mFdQQEf8w6IzfyFA==",
+  "dgSpecHash": "75rSz8nzkPKwGCNtKJte/Kj+Y4SOUyqVSV+UJJ/36fCePVjxcVrpodk0nVIrEchwkwoRnAMs6BtPB15QjoLHQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ubuntu\\git\\repos\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj",
+  "projectFilePath": "C:\\Users\\ubuntu\\Desktop\\ТНТУ\\3.КРПП\\Лабораторні\\dotnet-labs\\PlaneClassLibrary\\ConsoleClient\\ConsoleClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
